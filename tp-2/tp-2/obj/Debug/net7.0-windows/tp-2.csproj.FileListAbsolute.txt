@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\bin\Debug\net7.0-windows\tp-2.exe
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\bin\Debug\net7.0-windows\tp-2.deps.json
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\bin\Debug\net7.0-windows\tp-2.runtimeconfig.json
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\bin\Debug\net7.0-windows\tp-2.dll
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\bin\Debug\net7.0-windows\tp-2.pdb
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\tp_2.Form1.resources
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\tp-2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\tp-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\tp-2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\tp-2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\tp-2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\tp-2.dll
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\refint\tp-2.dll
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\tp-2.pdb
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\tp-2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Things\web-development\cs\tps\tp-2\tp-2\obj\Debug\net7.0-windows\ref\tp-2.dll
